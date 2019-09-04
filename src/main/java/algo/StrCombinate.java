@@ -9,7 +9,7 @@ import java.util.List;
 /**l
  * 字符串全组合(满足一定条件)
  * ["Ckl","xvc", "", "C", "ClC"] ->
- * ["CklxvcC", "CklCClC", "CCklClc" ....]
+ * ["CklxvcC", "CklCClC", "CCklClC", ...]
  */
 public class StrCombinate {
 
